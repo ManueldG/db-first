@@ -8,3 +8,8 @@ Buon lavoro ancora e a domani :faccia_leggermente_sorridente:
 app.diagrams.netapp.diagrams.net
 Flowchart Maker & Online Diagram Software
 diagrams.net is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams
+
+
+
+
+![db-auto](auto.jpg)
